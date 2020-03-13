@@ -1,6 +1,6 @@
 Name: gbt
 Version: 2.0
-Release: 1
+Release: 2
 Summary: Highly configurable prompt builder for Bash and ZSH written in Go
 Group: Applications/System
 BuildRoot: %buildroot
